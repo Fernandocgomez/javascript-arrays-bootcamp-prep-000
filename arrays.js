@@ -7,3 +7,7 @@ function addElementToBeginningOfArray(){
 function destructivelyAddElementToBeginningOfArray(){
   
 }
+
+function addElementToEndOfArray(){
+  
+}
