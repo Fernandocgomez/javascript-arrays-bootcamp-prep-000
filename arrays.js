@@ -5,4 +5,3 @@ function addElementToBeginningOfArray(array, element){
   return newArray
 }
 
-arrays addElementToBeginningOfArray(array, element) does not alter the original array:
