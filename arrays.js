@@ -15,3 +15,7 @@ function addElementToEndOfArray(){
 function destructivelyAddElementToEndOfArray(){
   
 }
+
+function accessElementInArray(){
+  console.log()
+}
